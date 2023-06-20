@@ -1,9 +1,9 @@
 [{
 	"titulo": "Blonde",
-	"director": ["Director:""Andrew Dominik"],
-	"guion": ["Guión:""Andrew Dominik"],
-	"reparto": ["Reparto:""Ana de Armas", "Adrien Brody", "Xavier Samuel", "Sara Paxton", "Bobby Cannavale"],
-	"genero": [ "Género:""Drama", "Drama" "sicológico", "Biografico", "Años 50", "Años 60"],
+	"director": ["Director:","Andrew Dominik"],
+	"guion": ["Guión:","Andrew Dominik"],
+	"reparto": ["Reparto:","Ana de Armas", "Adrien Brody", "Xavier Samuel", "Sara Paxton", "Bobby Cannavale"],
+	"genero": [ "Género:","Drama", "Drama", "sicológico", "Biografico", "Años 50", "Años 60"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Sola(o)😎","Con pareja❤","Pinche😈"],
 	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-0.jpg", "https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-0.1.jpg"]
@@ -11,20 +11,20 @@
 {
 
 	"titulo": "Don´t Look Up",
-	"director": ["Director:""Adam Mckay"],
-	"guion": ["Guión""Adam Mckay"],
-	"reparto": ["Reparto:""Leonardo DiCaprio", "Jennifer Lawrence", "Merelyn Streep", "Cate Blanchett", "Jonah Hill"],
-	"genero": ["Género""Comedia", "Drama", "Ciencia Ficción", "Satira", "Catasrofes", "Fin del mundo"],
+	"director": ["Director:","Adam Mckay"],
+	"guion": ["Guión:","Adam Mckay"],
+	"reparto": ["Reparto:","Leonardo DiCaprio", "Jennifer Lawrence", "Merelyn Streep", "Cate Blanchett", "Jonah Hill"],
+	"genero": ["Género:","Comedia", "Drama", "Ciencia Ficción", "Satira", "Catasrofes", "Fin del mundo"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Sola(o)😎","Con pareja❤","Familia🏡"],
 	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-2.jpg", "https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-2.1.jpg"]
 },
 {	
 	"titulo": "The Ballad of Buster Scrugs",
-	"director": ["Directores:""Ethan Coen", "Joel Coen"],
-	"guion": ["Guión:""Ethan Coen", "Joel Coen"],
-	"reparto": ["Reparto:""Tim Blake Nelson", "Zoe Kazan", "Tom Waits","James Franco"],
-	"genero": ["Género:""Drama", "Western", "Comedia Músical"],
+	"director": ["Directores:","Ethan Coen", "Joel Coen"],
+	"guion": ["Guión:","Ethan Coen", "Joel Coen"],
+	"reparto": ["Reparto:","Tim Blake Nelson", "Zoe Kazan", "Tom Waits","James Franco"],
+	"genero": ["Género:","Drama", "Western", "Comedia Músical"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Sola(o)😎","Con pareja❤","Familia🏡"],
 	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-3.jpg", "https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-3.1.jpg"]
@@ -32,20 +32,20 @@
 },
 {
 	"titulo": "Enola Holmes",
-	"director": ["Director""Harry Bradbeer"],
-	"guion": ["Guión""Jack Thorne","Nancy Springer","Arthur Conan Doyle"],
-	"reparto": ["Reparto:""Millie Bobby Brown","Henry Cavill","Sam Claflin","Elena Bonham Carter"],
-	"genero": ["Género""Accion", "Aventura", "Crimen"],
+	"director": ["Director:","Harry Bradbeer"],
+	"guion": ["Guión:","Jack Thorne","Nancy Springer","Arthur Conan Doyle"],
+	"reparto": ["Reparto:","Millie Bobby Brown","Henry Cavill","Sam Claflin","Elena Bonham Carter"],
+	"genero": ["Género:","Accion", "Aventura", "Crimen"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Sola(o)😎","Con pareja❤","Familia🏡"],
 	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-4.jpg","https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-4.1.jpeg"]
 },
 {	
 	"titulo": "Tick,Tick...Boom!",
-	"director": ["Director:""Lin-Manuel Miranda"],
-	"guion": ["Guión:""Steve Levenson"],
-	"reparto": ["Reparto:""Andrew Garfield", "Alexandra Shipp", "Robin de Jesus", "Vanesa Hudgens", "Joshua Henry"],
-	"genero": ["Género:""Músical", "Drama", "Biografico"],
+	"director": ["Director:","Lin-Manuel Miranda"],
+	"guion": ["Guión:","Steve Levenson"],
+	"reparto": ["Reparto:","Andrew Garfield", "Alexandra Shipp", "Robin de Jesus", "Vanesa Hudgens", "Joshua Henry"],
+	"genero": ["Género:","Músical", "Drama", "Biografico"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Sola(o)😎","Con pareja❤","Familia🏡"],
 	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-5.jpg","https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img.jpg"]
