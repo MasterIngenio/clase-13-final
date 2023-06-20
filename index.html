@@ -35,7 +35,7 @@
         </section>
         <script>
             async function pelis() {
-                const consulta = await fetch("https://raw.githubusercontent.com/MasterIngenio/Clase-11-data-final/main/data.json");
+                const consulta = await fetch("https://raw.githubusercontent.com/MasterIngenio/Clase-13-final/main/data.json");
                 const data = await consulta.json();
                 var donde = document.querySelector("#trabajos");
                 data.forEach(function (t, i) {
