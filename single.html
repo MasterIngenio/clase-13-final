@@ -38,7 +38,7 @@
             n = Number(n);
             //crearé una función asincrónica
             async function pelis() {
-                const consulta = await fetch("https://raw.githubusercontent.com/MasterIngenio/Clase-11-data-final/main/data.json");
+                const consulta = await fetch("https://raw.githubusercontent.com/MasterIngenio/Clase-13-final/main/data.json");
                 const data = await consulta.json();
                 const cuantos = data.length;
                 //Como n es siempre número: Ya no tengo posibilidad de null
