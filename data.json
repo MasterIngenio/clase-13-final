@@ -1,5 +1,5 @@
 [{
-	"titulo": "Blonde",
+	"titulo": ["titulo:","Blonde"],
 	"director": "Andrew Dominik",
 	"guion": "Andrew Dominik",
 	"reparto": ["Ana de Armas", "Adrien Brody", "Xavier Samuel", "Sara Paxton", "Bobby Cannavale"],
