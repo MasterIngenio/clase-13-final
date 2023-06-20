@@ -17,7 +17,7 @@
 	"genero": ["Comedia", "Drama", "Ciencia Ficción", "Satira", "Catasrofes", "Fin del mundo"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Sola(o)😎","Con pareja❤","Familia🏡"],
-	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-2.jpg", "https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-2.1.jpg"]
+	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-2.jpeg", "https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-2.1.jpg"]
 },
 {	
 	"titulo": "The Ballad of Buster Scrugs",
@@ -38,7 +38,7 @@
 	"genero": ["Accion", "Aventura", "Crimen"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Sola(o)😎","Con pareja❤","Familia🏡"],
-	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-4.jpg","https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-4.1.jpeg"]
+	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-4.jpeg","https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-4.1.jpeg"]
 },
 {	
 	"titulo": "Tick,Tick...Boom!",
