@@ -1,56 +1,293 @@
 [{
 	"titulo": "Blonde",
-	"director": ["Director:","Andrew Dominik"],
-	"guion": ["Guión:","Andrew Dominik"],
-	"reparto": ["Reparto:","Ana de Armas", "Adrien Brody", "Xavier Samuel", "Sara Paxton", "Bobby Cannavale"],
-	"genero": [ "Género:","Drama", "Drama", "sicológico", "Biografico", "Años 50", "Años 60"],
+	"director": ["Director: Andrew Dominik"],
+	"guion": ["Guión: Andrew Dominik"],
+	"reparto": ["Reparto: Ana de Armas", "Adrien Brody", "Xavier Samuel", "Sara Paxton", "Bobby Cannavale"],
+	"genero": [ "Género: Drama" , "sicológico" , "Biografico"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
-	"categoria": ["Sola(o)😎","Con pareja❤","Pinche😈"],
+	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Pinche😈"],
 	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-0.jpg", "https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-0.1.jpg"]
 },
 {
 
 	"titulo": "Don´t Look Up",
-	"director": ["Director:","Adam Mckay"],
-	"guion": ["Guión:","Adam Mckay"],
-	"reparto": ["Reparto:","Leonardo DiCaprio", "Jennifer Lawrence", "Merelyn Streep", "Cate Blanchett", "Jonah Hill"],
-	"genero": ["Género:","Comedia", "Drama", "Ciencia Ficción", "Satira", "Catasrofes", "Fin del mundo"],
+	"director": ["Director: Adam Mckay"],
+	"guion": ["Guión: Adam Mckay"],
+	"reparto": ["Reparto: Leonardo DiCaprio", "Jennifer Lawrence", "Merelyn Streep", "Cate Blanchett", "Jonah Hill"],
+	"genero": ["Género: Comedia" , "Drama" , "Ciencia Ficción"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
-	"categoria": ["Sola(o)😎","Con pareja❤","Familia🏡"],
+	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Familia🏡"],
 	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-2.jpeg", "https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-2.1.jpg"]
 },
 {	
 	"titulo": "The Ballad of Buster Scrugs",
-	"director": ["Directores:","Ethan Coen", "Joel Coen"],
-	"guion": ["Guión:","Ethan Coen", "Joel Coen"],
-	"reparto": ["Reparto:","Tim Blake Nelson", "Zoe Kazan", "Tom Waits","James Franco"],
-	"genero": ["Género:","Drama", "Western", "Comedia Músical"],
+	"director": ["Directores: Ethan Coen", "Joel Coen"],
+	"guion": ["Guión: Ethan Coen", "Joel Coen"],
+	"reparto": ["Reparto: Tim Blake Nelson", "Zoe Kazan", "Tom Waits", "James Franco"],
+	"genero": ["Género: Drama" , "Western" , "Comedia Músical"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
-	"categoria": ["Sola(o)😎","Con pareja❤","Familia🏡"],
+	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Familia🏡"],
 	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-3.jpg", "https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-3.1.jpg"]
 	
 },
 {
 	"titulo": "Enola Holmes",
-	"director": ["Director:","Harry Bradbeer"],
-	"guion": ["Guión:","Jack Thorne","Nancy Springer","Arthur Conan Doyle"],
-	"reparto": ["Reparto:","Millie Bobby Brown","Henry Cavill","Sam Claflin","Elena Bonham Carter"],
-	"genero": ["Género:","Accion", "Aventura", "Crimen"],
+	"director": ["Director: Harry Bradbeer"],
+	"guion": ["Guión: Jack Thorne", "Nancy Springer", "Arthur Conan Doyle"],
+	"reparto": ["Reparto: Millie Bobby Brown", "Henry Cavill", "Sam Claflin", "Elena Bonham Carter"],
+	"genero": ["Género: Acción" , "Aventura" , "Crimen"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
-	"categoria": ["Sola(o)😎","Con pareja❤","Familia🏡"],
+	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Familia🏡"],
 	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-4.jpeg","https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-4.1.jpeg"]
 },
 {	
 	"titulo": "Tick,Tick...Boom!",
-	"director": ["Director:","Lin-Manuel Miranda"],
-	"guion": ["Guión:","Steve Levenson"],
-	"reparto": ["Reparto:","Andrew Garfield", "Alexandra Shipp", "Robin de Jesus", "Vanesa Hudgens", "Joshua Henry"],
-	"genero": ["Género:","Músical", "Drama", "Biografico"],
+	"director": ["Director: Lin-Manuel Miranda"],
+	"guion": ["Guión: Steve Levenson"],
+	"reparto": ["Reparto: Andrew Garfield", "Alexandra Shipp", "Robin de Jesus", "Vanesa Hudgens", "Joshua Henry"],
+	"genero": ["Género: Músical" , "Drama" , "Biografico"],
+	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Familia🏡"],
+	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-5.jpg","https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img.jpg"]
+},
+{
+	"titulo": "Extraction",
+	"director": ["Director: Sam Hargrave"],
+	"guion": ["Guión: Joe Russo", "Ande Parks", "Anthony Russo"],
+	"reparto": ["Reparto: Chris Hemsworth", "Bryon Lerum", "Ryder Lerum"],
+	"genero": ["Género: Suspenso" , "Acción"],
+	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"categoria": ["Sola(o)😎"  , "Familia🏡"],
+	"img": ""
+},
+{
+	"titulo": "Extraction 2",
+	"director": ["Director: Sam Hargrave"],
+	"guion": ["Guión:","Joe Russo", "Ande Parks", "Anthony Russo"],
+	"reparto": ["Reparto:","Chris Hemsworth", "Golshifteh Farahani", "Adam Bessa"],
+	"genero": ["Género: Músical" , "Drama" , "Biografico"],
+	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Familia🏡"],
+	"img": ""
+},
+{
+	"titulo": "You People",
+	"director": ["Director:", "Kenya Barris"],
+	"guion": ["Guión: Jonah Hill", "Kenya Barris"],
+	"reparto": ["Reparto: Jonah Hill", "Lauren London", "Eddie Murphy"],
+	"genero": ["Género: Comedia" , "Romance"],
+	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Familia🏡"],
+	"img": ""
+},
+{
+	"titulo": "The Harder They Fall",
+	"director": ["Director: Jeymes Samuel"],
+	"guion": ["Guión: Jeymes Samuel", "Boaz Yakin"],
+	"reparto": ["Reparto: Jonathan Majors", "Zazie Beetz", "Rj Cyler", "Idris Elba"],
+	"genero": ["Género: Acción" , "Drama" , "Western"],
+	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Familia🏡"],
+	"img": ""
+},
+{
+	"titulo": "The Grey Man",
+	"director": ["Director: Anthony Russo", "Joe Russo"],
+	"guion": ["Guión: Jor Russo", "Christopher Markus", "Sthephen McFeely"],
+	"reparto": ["Reparto: Ryan Gosling", "Chris Evans", "Ana de Armas"],
+	"genero": ["Género: Acción" , "Suspenso"],
+	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"categoria": ["Sola(o)😎" , "Con pareja❤"],
+	"img": ""
+},
+{
+	"titulo": "Hustle",
+	"director": ["Director: Jeremiah Zagar"],
+	"guion": ["Guión: Taylos Materne", "Will Fetters"],
+	"reparto": ["Reparto: Adam Sandler", "Queen Latifah", "Juancho Hernangomez"],
+	"genero": ["Género: Comedia" , "Drama" , "Deportes"],
+	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Familia🏡"],
+	"img": ""
+},
+{
+	"titulo": "The Irishman",
+	"director": ["Director: Martin Scorsesse"],
+	"guion": ["Guión: Steven Zaillian", "Charles Brandrt"],
+	"reparto": ["Reparto: Rober De Niro", "Al Pacino", "Joe Pesci"],
+	"genero": ["Género: Biografía" , "Crimen" , "Drama"],
+	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Familia🏡"],
+	"img": ""
+},
+{
+	"titulo": "Between Two Ferns: The Movie",
+	"director": ["Director: Scott Aukerman"],
+	"guion": ["Guión: Scott Aukerman", "Zach Galifianakis"],
+	"reparto": ["Reparto: Zach Galifianakis", "Matthew McConaughey", "Rekha Shankar", "Keanu Reeves"],
+	"genero": ["Género: Comedia"],
+	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"categoria": ["Sola(o)😎" , "Familia🏡"],
+	"img": ""
+ },
+{
+	"titulo": "Uncut Gems",
+	"director": ["Director: Benny Safdie", "Josh Safdie"],
+	"guion": ["Guión: Ronald Bronstein", "Josh Safdie", "Benny Safdie"],
+	"reparto": ["Reparto: Adam Sandler", "Julia Fox", "Idina Menzel", "LaKeith Stanfield"],
+	"genero": ["Género: Crimen" , "Drama" , "Suspenso"],
+	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Pinche😈"],
+	"img": ""
+},
+{
+	"titulo": "The Pale Blue Eye",
+	"director": ["Director: Scott Cooper"],
+	"guion": ["Guión: Scott Cooper", "Louis Bayard"],
+	"reparto": ["Reparto: Christian Bale", "Harry Melling", "Simon McBurney", "Lucy Boyton"],
+	"genero": ["Género: Crimen" , "Terror" , "Misterio"],
+	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Familia🏡"],
+	"img": ""
+},
+{
+	"titulo": "The Adam Proyect",
+	"director": ["Director: Shawn Levy"],
+	"guion": ["Guión: Jonathan Tropper", "T.S. Nowlin", "Jennifer Flackett"],
+	"reparto": ["Reparto: Ryan Reynolds", "Walker Scobbell", "Mark Ruffalo", "Jennifer Garner"],
+	"genero": ["Género: Acción" , "Aventura" , "Comedia"],
+	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"categoria": ["Sola(o)😎" , "Familia🏡"],
+	"img": ""
+},
+{
+	"titulo": "Shaft(2019)",
+	"director": ["Director: Tim Story"],
+	"guion": ["Guión: Ernest Tidyman", "Kenya Barris", "Alex Barnow"],
+	"reparto": ["Reparto: Samuel L. Jackson", "Jessie T. Usher", "Richard Roundtree"],
+	"genero": ["Género: Acción" , "Comedia" , "Crimen"],
+	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Pinche😈"],
+	"img": ""
+},
+{
+	"titulo": "The King",
+	"director": ["Director: David Michôd"],
+	"guion": ["Guión: David Michôd", "Joel Edgerton"],
+	"reparto": ["Reparto: Timotheé Chalamet", "Joel Edgerton", "Sean Harris", "Robert Pattinson", "Lily-Rose Depp"],
+	"genero": ["Género: Biografía" , "Drama" , "Historia"],
+	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Pinche😈"],
+	"img": ""
+},
+{
+	"titulo": "The Power Of The Dog",
+	"director": ["Director: Jane Campion"],
+	"guion": ["Guión: Jane Campion", "Thomas Savage"],
+	"reparto": ["Reparto: Benedict Cumberbatch", "Kirsten Dunst", "Jesse Plemons", "Kodi Smit-McPhee"],
+	"genero": ["Género: Drama" , "Western"],
+	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"categoria": ["Con pareja❤" , "Familia🏡" , "Pinche😈"],
+	"img": ""
+},
+{
+	"titulo": "The Meyerowitz Stories (New and Selected) ",
+	"director": ["Director: Noah Baumbach"],
+	"guion": ["Guión: Noah Bambach"],
+	"reparto": ["Reparto: Adam Sandler", "Grace Van Patten", "Dustin Hoffman", "Emma Thompson", "Ben Stiller", "Adam Driver"],
+	"genero": ["Género: Drama" ,  "Comedia"],
+	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"categoria": ["Con pareja❤" , "Familia🏡"],
+	"img": ""
+},
+{
+	"titulo": "Me Time",
+	"director": ["Director: Jhon Hamburg"],
+	"guion": ["Guión: Jhon Hambuerg"],
+	"reparto": ["Reparto: Kevin Hart", "Mark Wahlberg", "Regina Hall", "Amenti Sledge"],
+	"genero": ["Género: Comedia"],
+	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Familia🏡"],
+	"img": ""
+},
+{
+	"titulo": "Metal Lords",
+	"director": ["Director: Peter Sollet"],
+	"guion": ["Guión: D.B. Weiss"],
+	"reparto": ["Reparto: Jaeden Martell", "Adrian Greensmith", "Isis Hainsworth", "Joe Manganiello"],
+	"genero": ["Género: Comedia" , "Música"],
+	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Pinche😈"],
+	"img": ""
+},
+{
+	"titulo": "I Care a Lot",
+	"director": ["Director: J Blakeson"],
+	"guion": ["Guión: J Blakeson"],
+	"reparto": ["Reparto: Rosamund Pike", "Peter Dingklage", "Eiza Gonzáles", "Dianne Wiest"],
+	"genero": ["Género: Comedia" , "Crimen" , "Drama"],
+	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Familia🏡"],
+	"img": ""
+},
+{
+	"titulo": "Bad Trip",
+	"director": ["Director: Kitao Sakurai"],
+	"guion": ["Guión: Eric André", "Kitao Sakurai", "Andrew Barchilon"],
+	"reparto": ["Reparto: Eric André", "Michaela Conlin", "Lil Rel Howery" , "Tiffany Haddish"],
+	"genero": ["Género: Comedia"],
+	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Pinche😈"],
+	"img": ""
+},
+{
+	"titulo": "Outlaw King",
+	"director": ["Director: David Mackenzie"],
+	"guion": ["Guión: Bathsheban Doran", "David Mackenzie", "James MacInnes"],
+	"reparto": ["Reparto: Chris Pine", "Stephen Dillane", "Rebecca Robin", "Aaron Taylor-Jhonson"],
+	"genero": ["Género: Acción" , "Biografía" , "Drama"],
+	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Familia🏡"],
+	"img": ""
+},
+{
+	"titulo": "The Two Popes",
+	"director": ["Director: Fernando Meirelles"],
+	"guion": ["Guión: ANthony McCarten"],
+	"reparto": ["Reparto: Jonathan Pryce", "Anthony Hopkoins", "Juan Minujín", "Luis Gnecco"],
+	"genero": ["Género: Biografía" , "Comedia" , "Drama"],
+	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Familia🏡"],
+	"img": ""
+},
+{
+	"titulo": "What Is Life Worth?",
+	"director": ["Director: Sara Colangelo"],
+	"guion": ["Guión: Max Borenstein"],
+	"reparto": ["Reparto: Michael Keaton", "Army Ryan", "Stanley Tucci", "Tate Donovan"],
+	"genero": ["Género: Biografía" , "Historia" , "Drama"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Sola(o)😎","Con pareja❤","Familia🏡"],
-	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-5.jpg","https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img.jpg"]
+	"img": ""
+},
+{
+	"titulo": "The Trial of the Chicago 7",
+	"director": ["Director: Aaron Sorkin"],
+	"guion": ["Guión: Aaron Sorkin"],
+	"reparto": ["Reparto: Eddie Redmayne", "Alex Sharp", "Sacha Baron Cohen", "Jeremy Strong", "Jhon Caroll Lynch", "Yahya Abdul-Mateen II", "Mark Rylance", "Joseph Gordon-Levitt"],
+	"genero": ["Género: Drama" , "Historia" , "Suspenso"],
+	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"categoria": ["Sola(o)😎","Con pareja❤","Familia🏡"],
+	"img": ""
+},
+{
+	"titulo": "The Dirt",
+	"director": ["Director: Jeff Tremaine"],
+	"guion": ["Guión: Rich Wilkes", "Amanda Adelson", "Tommy Lee"],
+	"reparto": ["Reparto: Douglas Booth", "Iwan Rheon", "Colson Baker", "Daniel Webber"],
+	"genero": ["Género: Biografía" , "Comedia" , "Drama"],
+	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"categoria": ["Con pareja❤", "Pinche😈"],
+	"img": ""
 }
-
-
-
 ]
