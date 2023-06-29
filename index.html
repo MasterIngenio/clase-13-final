@@ -4,58 +4,110 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous" />
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+        
 
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@600&display=swap" rel="stylesheet" />
 
         <style>
-
             :root {
                 --bs-body-font-family: "Hanken Grotesk", sans-serif;
             }
+            .btn-warning {
+  color: #000;
+  background-color: #916aff;
+  border-color: #916aff;
+}
+.btn-warning:hover {
+  color: #000;
+  background-color: #faff00;
+  border-color: #faff00;
+}
+#aaa {
+    color: #000;
+    background-color: #faff00;
+    border-color: #faff00;
 
-            
+}
         </style>
         <title>Martín Bustos</title>
     </head>
     <body>
-        <section class="py-5 text-center container">
-            <div class="row py-lg-5">
-                <div class="col-lg-6 col-md-8 mx-auto">
-                    <h1 class="fw-light">  <a  href="index.html"class="link-offset-2 link-underline link-underline-opacity-0" class="link-dark"> Lo bueno, lo nuevo y lo clasico </a></h1>
+        <header class="p-5 text">
+            <div class="container">
+                <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start shadow-sm">
+                    <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
+                        <li><a href="index.html" class="nav-link px-4 text-secondary">Inicio</a></li>
+                    </ul>
+                   <div class="dropdown">
+  <button class="btn btn-warning dropdown-toggle shadow-lg" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Categorias
+  </button>
+  <ul class="dropdown-menu">
+    <li><a class="dropdown-item" href="#">Sola(a)</a></li>
+    <li><a class="dropdown-item" href="#">Con Pareja</a></li>
+    <li><a class="dropdown-item" href="#">En familia</a></li>
+    <li><a class="dropdown-item" href="#">Con Pinche</a></li>
+  </ul>
+</div>
+                    
+                </div>
+            </div>
+        </header>
+        <section class="container">
+            <div class="p-4 p-md-5 mb-4 rounded text-body-emphasis bg-body-secondary shadow-lg">
+                <div class="col-lg-6 px-0">
+                    <h1 class="display-4 fst-bold"><a href="index.html" class="link-dark link-offset-2 link-underline link-underline-opacity-0" class="link-dark"> Lo bueno, lo nuevo y lo clasico </a></h1>
                 </div>
             </div>
         </section>
 
         <section class="border-top border-bottom" id="losTrabajos">
             <div class="container py-5">
-                <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4" id="trabajos"></div>
+                <div class="row row-cols-1 row-cols-md-2 row-cols-sm-3 row-cols-lg-4 g-4" id="trabajos"></div>
+                <div class="card h-100"></div>
+
             </div>
         </section>
+
+        <footer class="py-3 my-4">
+            <div class="text-center text body-secondary">Martín Bustos &copy; 2023
+            </div>
+           
+        </footer>
+
         <script>
             async function pelis() {
-                const consulta = await fetch("https://raw.githubusercontent.com/MasterIngenio/Clase-13-final/main/data.json");
+                const consulta = await fetch("https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/data.json");
                 const data = await consulta.json();
                 var donde = document.querySelector("#trabajos");
                 data.forEach(function (t, i) {
                     donde.innerHTML +=
-                        '<article class="col"><div class="card h-100 shadow-sm ' +
-                        t.director +
+                        '<article class="col"><div class="card h-100 shodow-sm ' +
+                        t.description +
                         '"><img src="' +
                         t.img[0] +
-                        '" class="card-img-top"><div class="card-body"><h3 class="fs-5"><a href="single.html?nro=' +
+                        '" class="card-img-top shadow-md"><div class="obeject-fit-contain border rounden><div class="card-body"><h3 class="fs-5"><a href="single.html?nro=' +
                         i +
                         '" class="link-secondary">' +
                         t.titulo +
                         "</a></h3><p>" +
+                        t.director +
+                        "</p><medium>" +
                         t.guion +
-                        "</p><small>" +
+                        "</small><p><small>" +
                         t.reparto +
-                        "</small></div></div></article>";
+                        "</small><p><small>" +
+                        t.genero +
+                        "</p><small></div></div></article>";
                 });
             }
             pelis().catch((error) => console.error(error));
         </script>
-    </body>
+        
+        
+          </body>
 </html>
