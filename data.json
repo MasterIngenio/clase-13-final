@@ -4,7 +4,7 @@
 	"guion": ["Guión: Andrew Dominik"],
 	"reparto": ["Reparto: Ana de Armas", "Adrien Brody", "Xavier Samuel", "Sara Paxton", "Bobby Cannavale"],
 	"genero": [ "Género: Drama" , "sicológico" , "Biografico"],
-	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"resena": "Nadie queda completamente conforme cuando la vida de un ícono es llevado a la pantalla grande. Sin embargo, mientras que Bohemian Rhapsody (2018) logra unificar la opinión de las mayorías, Blonde (2022) es una película que polariza a los espectadores. En esta reseña de la biopic sobre la rubia más famosa del mundo, te cuento -sin spoilers– por qué estoy del lado de los detractores. En esta cinta basada en la exitosa novela de Joyce Carol Oates, la cubana Ana de Armas es Marilyn Monroe. Norma Jeane, como realmente se llamaba, fue el símbolo sexual por excelencia durante la mitad del siglo XX y cuya figura se ha convertido en leyenda.",
 	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Pinche😈"],
 	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-0.jpg", "https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-0.1.jpg"]
 },
@@ -15,7 +15,7 @@
 	"guion": ["Guión: Adam Mckay"],
 	"reparto": ["Reparto: Leonardo DiCaprio", "Jennifer Lawrence", "Merelyn Streep", "Cate Blanchett", "Jonah Hill"],
 	"genero": ["Género: Comedia" , "Drama" , "Ciencia Ficción"],
-	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"resena": "“Don’t Look Up”, la polémica cinta de Netflix protagonizada por Leonardo DiCaprio, Jennifer Lawrence, Meryl Streep y Cate Blanchett, que satiriza con temas relacionados a la crisis climática, la pandemia, los algoritmos y el consumo de información, se estrenó hace unos meses en la plataforma de streaming y más allá de las opiniones dispares sobre ella, la película se posicionó en poco tiempo como la película más vista de la compañía.",
 	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Familia🏡"],
 	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-2.jpeg", "https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-2.1.jpg"]
 },
@@ -25,7 +25,7 @@
 	"guion": ["Guión: Ethan Coen", "Joel Coen"],
 	"reparto": ["Reparto: Tim Blake Nelson", "Zoe Kazan", "Tom Waits", "James Franco"],
 	"genero": ["Género: Drama" , "Western" , "Comedia Músical"],
-	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"resena": "Lin-Manuel Miranda ha sido criticado y alabado por las temáticas complicadas que ha tocado en sus musicales Hamilton e In the Heights. La controversia y la conversación han estado muy presentes en la carrera de este artista durante los últimos años. Sin embargo, esta vez tendrá un respiro gracias a su debut como director de cine con tick, tick… Boom!, la cinta recién estrenada en Netflix y que está basada en la vida y el musical de Jonathan Larson (mejor conocido por Rent). Algo que tenemos que reconocerle a Miranda, es que sabe cómo hacer musicales, y en esta reseña de tick, tick… Boom! sin spoilers, te decimos por qué tienes que verlo.",
 	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Familia🏡"],
 	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-3.jpg", "https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-3.1.jpg"]
 	
