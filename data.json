@@ -48,7 +48,7 @@
 	"genero": ["Género: Músical" , "Drama" , "Biografico"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Familia🏡"],
-	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-5.jpg","https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img.jpg"]
+	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-5.jpg","https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-5.1.jpg"]
 },
 {
 	"titulo": "Extraction",
@@ -58,8 +58,9 @@
 	"genero": ["Género: Suspenso" , "Acción"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Sola(o)😎"  , "Familia🏡"],
-	"img": ""
+	"img":  ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-6.jpg","https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-6.1.jpg"]
 },
+
 {
 	"titulo": "Extraction 2",
 	"director": ["Director: Sam Hargrave"],
@@ -68,7 +69,7 @@
 	"genero": ["Género: Músical" , "Drama" , "Biografico"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Familia🏡"],
-	"img": ""
+	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-7.jpg","https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-7.1.jpg"]
 },
 {
 	"titulo": "You People",
@@ -78,7 +79,7 @@
 	"genero": ["Género: Comedia" , "Romance"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Familia🏡"],
-	"img": ""
+	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-8.jpg","https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-8.1.jpg"]
 },
 {
 	"titulo": "The Harder They Fall",
@@ -88,7 +89,7 @@
 	"genero": ["Género: Acción" , "Drama" , "Western"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Familia🏡"],
-	"img": ""
+	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-9.jpg","https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-9.1.jpg"]
 },
 {
 	"titulo": "The Grey Man",
@@ -98,7 +99,7 @@
 	"genero": ["Género: Acción" , "Suspenso"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Sola(o)😎" , "Con pareja❤"],
-	"img": ""
+	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-10.jpg","https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-10.1.jpg"]
 },
 {
 	"titulo": "Hustle",
@@ -108,7 +109,7 @@
 	"genero": ["Género: Comedia" , "Drama" , "Deportes"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Familia🏡"],
-	"img": ""
+	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-11.jpg","https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-11.1.jpg"]
 },
 {
 	"titulo": "The Irishman",
@@ -118,7 +119,7 @@
 	"genero": ["Género: Biografía" , "Crimen" , "Drama"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Familia🏡"],
-	"img": ""
+	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-12.jpg","https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-12.1.jpg"]
 },
 {
 	"titulo": "Between Two Ferns: The Movie",
@@ -128,7 +129,7 @@
 	"genero": ["Género: Comedia"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Sola(o)😎" , "Familia🏡"],
-	"img": ""
+	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-13.jpg","https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-13.1.jpg"]
  },
 {
 	"titulo": "Uncut Gems",
@@ -138,7 +139,7 @@
 	"genero": ["Género: Crimen" , "Drama" , "Suspenso"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Pinche😈"],
-	"img": ""
+	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-14.jpg","https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-14.1.jpg"]
 },
 {
 	"titulo": "The Pale Blue Eye",
@@ -148,7 +149,7 @@
 	"genero": ["Género: Crimen" , "Terror" , "Misterio"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Familia🏡"],
-	"img": ""
+	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-15.jpg","https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-15.1.jpg"]
 },
 {
 	"titulo": "The Adam Proyect",
@@ -158,7 +159,7 @@
 	"genero": ["Género: Acción" , "Aventura" , "Comedia"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Sola(o)😎" , "Familia🏡"],
-	"img": ""
+	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-16.jpg","https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-16.1.jpg"]
 },
 {
 	"titulo": "Shaft(2019)",
@@ -168,7 +169,7 @@
 	"genero": ["Género: Acción" , "Comedia" , "Crimen"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Pinche😈"],
-	"img": ""
+	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-17.jpg","https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-17.1.jpg"]
 },
 {
 	"titulo": "The King",
@@ -178,7 +179,7 @@
 	"genero": ["Género: Biografía" , "Drama" , "Historia"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Pinche😈"],
-	"img": ""
+	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-18.jpg","https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-18.1.jpg"]
 },
 {
 	"titulo": "The Power Of The Dog",
@@ -188,7 +189,7 @@
 	"genero": ["Género: Drama" , "Western"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Con pareja❤" , "Familia🏡" , "Pinche😈"],
-	"img": ""
+	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-19.jpg","https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-5.1.jpg"]
 },
 {
 	"titulo": "The Meyerowitz Stories (New and Selected) ",
@@ -198,7 +199,16 @@
 	"genero": ["Género: Drama" ,  "Comedia"],
 	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
 	"categoria": ["Con pareja❤" , "Familia🏡"],
+	"img": ["https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-20.jpg","https://raw.githubusercontent.com/MasterIngenio/clase-13-final/main/img-20.1.jpg"]
+},
+{
+	"titulo": "Me Time",
+	"director": ["Director: Jhon Hamburg"],
+	"guion": ["Guión: Jhon Hambuerg"],
+	"reparto": ["Reparto: Kevin Hart", "Mark Wahlberg", "Regina Hall", "Amenti Sledge"],
+	"genero": ["Género: Comedia"],
+	"resena": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at bibendum nisl. Aliquam erat volutpat. Suspendisse potenti. Proin nec ligula in augue convallis placerat in a neque. Donec eu vestibulum massa. Donec cursus, nibh eu fermentum convallis, eros risus aliquam risus, nec condimentum nunc erat at mauris. Aenean ut placerat elit. Nullam aliquet neque iaculis, commodo erat ac, pretium tellus. Nulla imperdiet mollis magna non sodales. Ut vel leo a nulla efficitur dapibus. Aenean vehicula sed enim quis ultrices. Suspendisse accumsan porta sodales. Nullam ac nunc sit amet nibh ultricies blandit lacinia vel ante. Integer tincidunt pulvinar rutrum. Vestibulum ullamcorper.",
+	"categoria": ["Sola(o)😎" , "Con pareja❤" , "Familia🏡"],
 	"img": ""
 }
-
 ]
